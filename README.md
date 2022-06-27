@@ -5,7 +5,6 @@ Status do projeto: em desenvolvimento
 Para rodar esse projeto vc necessitará de: 
  
  ```````
- npm instal
- node.js
- react
+ node app.js
+ 
  ````````
